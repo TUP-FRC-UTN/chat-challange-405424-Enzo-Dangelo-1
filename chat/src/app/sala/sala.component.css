@@ -1,0 +1,23 @@
+.chat-container {
+    border: 1px solid #e0e0e0;
+    border-radius: 4px;
+    overflow: hidden;
+  }
+  
+  .chat-header {
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #e0e0e0;
+    padding: 10px 15px;
+    margin: 0;
+  }
+  
+  .chat-body {
+    padding: 15px;
+  }
+  
+  .chat-body h3 {
+    margin-top: 0;
+    border-bottom: 1px solid #e0e0e0;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+  }
